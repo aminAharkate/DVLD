@@ -1,0 +1,13 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.cache
+
+# Node.js or frontend folders (if you have them)
+node_modules/
+dist/
+build/
+
+# Logs
+*.log

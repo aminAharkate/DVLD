@@ -1,0 +1,119 @@
+S:\ToDELET DVLD\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Drivers.frmDrivers.resources
+S:\ToDELET DVLD\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.frmMain.resources
+S:\ToDELET DVLD\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Properties.Resources.resources
+S:\ToDELET DVLD\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.csproj.GenerateResource.cache
+S:\ToDELET DVLD\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.GeneratedMSBuildEditorConfig.editorconfig
+S:\ToDELET DVLD\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.AssemblyInfoInputs.cache
+S:\ToDELET DVLD\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.AssemblyInfo.cs
+S:\ToDELET DVLD\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.csproj.CoreCompileInputs.cache
+S:\ToDELET DVLD\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.dll
+S:\ToDELET DVLD\DVLD_DesktopClient\obj\Debug\net8.0-windows\refint\DVLD_DesktopClient.dll
+S:\ToDELET DVLD\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.pdb
+S:\ToDELET DVLD\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.exe
+S:\ToDELET DVLD\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.deps.json
+S:\ToDELET DVLD\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.runtimeconfig.json
+S:\ToDELET DVLD\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.dll
+S:\ToDELET DVLD\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.pdb
+S:\ToDELET DVLD\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.genruntimeconfig.cache
+S:\ToDELET DVLD\DVLD_DesktopClient\obj\Debug\net8.0-windows\ref\DVLD_DesktopClient.dll
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Applications.ApplicationTypes.frmEditApplicationType.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Applications.ApplicationTypes.frmListApplicationTypes.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Applications.Local_Driving_License.frmAddUpdateLocalDrivingLicesnseApplication.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.FormTesting.frmTesting.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.frmMain.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Login.frmLogin.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.Controles.cntPersonCard.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.Controles.ctrlPersonCardWithFilter.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Drivers.frmAdd_Edite.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.frmFindPerson.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.frmListPeople.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.frmShowPersonInfo.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Properties.Resources.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Test.Test_Types.frmListTestTypes.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.Controles.ctrlUserCard.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.frmAddUpdateUsers.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.frmChangePassword.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.frmListUsers.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.frmUserInfo.resources
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.csproj.GenerateResource.cache
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.GeneratedMSBuildEditorConfig.editorconfig
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.AssemblyInfoInputs.cache
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.AssemblyInfo.cs
+S:\15  Back up\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.csproj.CoreCompileInputs.cache
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Applications.ApplicationTypes.frmEditApplicationType.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Applications.ApplicationTypes.frmListApplicationTypes.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Applications.Local_Driving_License.frmAddUpdateLocalDrivingLicesnseApplication.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.FormTesting.frmTesting.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.frmMain.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Login.frmLogin.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.Controles.cntPersonCard.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.Controles.ctrlPersonCardWithFilter.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Drivers.frmAdd_Edite.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.frmFindPerson.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.frmListPeople.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.frmShowPersonInfo.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Properties.Resources.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Test.Test_Types.frmListTestTypes.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.Controles.ctrlUserCard.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.frmAddUpdateUsers.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.frmChangePassword.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.frmListUsers.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.frmUserInfo.resources
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.csproj.GenerateResource.cache
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.GeneratedMSBuildEditorConfig.editorconfig
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.AssemblyInfoInputs.cache
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.AssemblyInfo.cs
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.csproj.CoreCompileInputs.cache
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.exe
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.deps.json
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.runtimeconfig.json
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.dll
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.pdb
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.dll
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\refint\DVLD_DesktopClient.dll
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.pdb
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.genruntimeconfig.cache
+S:\15  Back up\TheProjectDVLDVersion2.0.0notworking\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\ref\DVLD_DesktopClient.dll
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.exe
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.deps.json
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.runtimeconfig.json
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.dll
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\bin\Debug\net8.0-windows\DVLD_DesktopClient.pdb
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Applications.ApplicationTypes.frmEditApplicationType.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Applications.ApplicationTypes.frmListApplicationTypes.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Applications.Controls.ctrlApplicationBasicInfo.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Applications.Local_Driving_License.ctrlDrivingLicenseApplicationInfo.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Applications.Local_Driving_License.frmAddUpdateLocalDrivingLicesnseApplication.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Applications.Local_Driving_License.frmListLocalDrivingLicesnseApplications.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Applications.Local_Driving_License.frmLocalDrivingLicenseApplicationInfo.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.FormTesting.frmTesting.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.frmMain.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Login.frmLogin.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.Controles.cntPersonCard.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.Controles.ctrlPersonCardWithFilter.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Drivers.frmAdd_Edite.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.frmFindPerson.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.frmListPeople.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.People.frmShowPersonInfo.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Properties.Resources.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Test.Controls.ctrlScheduleTest.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Test.Controls.ctrlSecheduledTest.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Test.frmListTestAppointments.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Test.frmScheduleTest.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Test.frmTakeTest.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Test.Test_Types.frmListTestTypes.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.Controles.ctrlUserCard.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.frmAddUpdateUsers.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.frmChangePassword.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.frmListUsers.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.Users.frmUserInfo.resources
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.csproj.GenerateResource.cache
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.GeneratedMSBuildEditorConfig.editorconfig
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.AssemblyInfoInputs.cache
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.AssemblyInfo.cs
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.csproj.CoreCompileInputs.cache
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.dll
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\refint\DVLD_DesktopClient.dll
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.pdb
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.genruntimeconfig.cache
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\ref\DVLD_DesktopClient.dll

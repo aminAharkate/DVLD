@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="sdfg.css">
+
+</head>
+<body>
+    <div class="sidebar">
+
+        <div class="sidebar-header">
+            <h1>Driving and Vehicle License Department System (DVLD)</h1>
+        </div>
+
+        <div class="sidebar-nav">
+
+            <div class="nav-item" onclick="showSection('applications')">
+                <i class="fas fa-list"></i> Applications
+            </div>
+
+            <div class="nav-item" onclick="showSection('search')">
+                <i class="fas fa-search"></i> Search for a Person
+            </div>
+
+            <div class="nav-divider"></div>
+
+            <div class="nav-item" onclick="showSection('people')">
+                <i class="fas fa-users"></i> People
+            </div>
+
+            <div class="nav-item" onclick="showSection('drivers')">
+                <i class="fas fa-id-card"></i> Drivers
+            </div>
+
+            <div class="nav-item" onclick="showSection('settings')">
+                <i class="fas fa-cog"></i> Settings
+            </div>
+
+            <div class="nav-item" onclick="showSection('user-info')">
+                <i class="fas fa-user"></i> User Info
+            </div>
+
+            <div class="nav-item" onclick="showSection('password')">
+                <i class="fas fa-key"></i> Password
+            </div>
+
+            <div class="nav-item" onclick="showSection('users')">
+                <i class="fas fa-user-shield"></i> Users
+            </div>
+
+            <div class="nav-item" onclick="logout()">
+                <i class="fas fa-sign-out-alt"></i> Sign out
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="main-content">
+
+        <!-- Applications Section -->
+        <div id="applications" class="form-section active">
+
+            <div class="card">
+                <h2>Applications</h2>
+                <div class="application-item">
+                    <span><strong>Anime</strong></span>
+                    <span>Anarkate</span>
+                </div>
+                <div class="application-item">
+                    <span><strong>Permeitons</strong></span>
+                    <span class="null-value">NULL</span>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Search Section -->
+        <div id="search" class="form-section">
+            <div class="card">
+                <h2>Search for a Person</h2>
+                <div class="search-bar">
+                    <input type="text" placeholder="Enter search term...">
+                    <button><i class="fas fa-search"></i> Search</button>
+                </div>
+                <!-- Search results would go here -->
+            </div>
+        </div>
+
+        <!-- People Section -->
+        <div id="people" class="form-section">
+            <div class="card">
+                <h2>People Management</h2>
+                <div class="form-group">
+                    <label for="person-name">Name</label>
+                    <input type="text" id="person-name" placeholder="Enter full name">
+                </div>
+                <div class="form-group">
+                    <label for="person-id">ID Number</label>
+                    <input type="text" id="person-id" placeholder="Enter ID number">
+                </div>
+                <div class="form-actions">
+                    <button class="btn btn-secondary">Cancel</button>
+                    <button class="btn btn-primary">Save</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Drivers Section -->
+        <div id="drivers" class="form-section">
+            <div class="card">
+                <h2>Drivers Management</h2>
+                <div class="form-group">
+                    <label for="driver-license">License Number</label>
+                    <input type="text" id="driver-license" placeholder="Enter license number">
+                </div>
+                <div class="form-group">
+                    <label for="driver-class">License Class</label>
+                    <select id="driver-class">
+                        <option value="">Select class</option>
+                        <option value="A">Class A</option>
+                        <option value="B">Class B</option>
+                        <option value="C">Class C</option>
+                    </select>
+                </div>
+                <div class="form-actions">
+                    <button class="btn btn-secondary">Cancel</button>
+                    <button class="btn btn-primary">Save</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Settings Section -->
+        <div id="settings" class="form-section">
+            <div class="card">
+                <h2>System Settings</h2>
+                <div class="form-group">
+                    <label for="system-language">Language</label>
+                    <select id="system-language">
+                        <option value="en">English</option>
+                        <option value="ar">Arabic</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="system-theme">Theme</label>
+                    <select id="system-theme">
+                        <option value="light">Light</option>
+                        <option value="dark">Dark</option>
+                    </select>
+                </div>
+                <div class="form-actions">
+                    <button class="btn btn-secondary">Cancel</button>
+                    <button class="btn btn-primary">Save Settings</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- User Info Section -->
+        <div id="user-info" class="form-section">
+            <div class="card">
+                <h2>User Information</h2>
+                <div class="form-group">
+                    <label for="user-name">Full Name</label>
+                    <input type="text" id="user-name" placeholder="Enter your full name" value="Admin User">
+                </div>
+                <div class="form-group">
+                    <label for="user-email">Email</label>
+                    <input type="email" id="user-email" placeholder="Enter your email" value="admin@dvld.gov">
+                </div>
+                <div class="form-actions">
+                    <button class="btn btn-secondary">Cancel</button>
+                    <button class="btn btn-primary">Update</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Password Section -->
+        <div id="password" class="form-section">
+            <div class="card">
+                <h2>Change Password</h2>
+                <div class="form-group">
+                    <label for="current-password">Current Password</label>
+                    <input type="password" id="current-password" placeholder="Enter current password">
+                </div>
+                <div class="form-group">
+                    <label for="new-password">New Password</label>
+                    <input type="password" id="new-password" placeholder="Enter new password">
+                </div>
+                <div class="form-group">
+                    <label for="confirm-password">Confirm New Password</label>
+                    <input type="password" id="confirm-password" placeholder="Confirm new password">
+                </div>
+                <div class="form-actions">
+                    <button class="btn btn-secondary">Cancel</button>
+                    <button class="btn btn-primary">Change Password</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Users Section -->
+        <div id="users" class="form-section">
+            <div class="card">
+                <h2>User Management</h2>
+                <div class="form-group">
+                    <label for="new-username">Username</label>
+                    <input type="text" id="new-username" placeholder="Enter username">
+                </div>
+                <div class="form-group">
+                    <label for="new-user-role">Role</label>
+                    <select id="new-user-role">
+                        <option value="admin">Administrator</option>
+                        <option value="manager">Manager</option>
+                        <option value="clerk">Clerk</option>
+                    </select>
+                </div>
+                <div class="form-actions">
+                    <button class="btn btn-secondary">Cancel</button>
+                    <button class="btn btn-primary">Add User</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
+<script src="test.js"></script>
