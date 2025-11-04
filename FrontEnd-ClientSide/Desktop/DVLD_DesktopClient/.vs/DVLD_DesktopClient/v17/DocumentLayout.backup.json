@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|s:\\14    pfe_dvld\\theprojectdvldversion2.0.0\\frontend-clientside\\desktop\\dvld_desktopclient\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|s:\\14    pfe_dvld\\theprojectdvldversion2.0.0\\frontend-clientside\\desktop\\dvld_desktopclient\\applications\\local driving license\\clslocaldrivinglicenseapplicationasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|solutionrelative:applications\\local driving license\\clslocaldrivinglicenseapplicationasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\applications\\applicationtypes\\frmlistapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|solutionrelative:applications\\applicationtypes\\frmlistapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\people\\frmadd_edite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|solutionrelative:people\\frmadd_edite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\test\\frmlocaldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|solutionrelative:test\\frmlocaldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|solutionrelative:users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\test\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|solutionrelative:test\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|s:\\14    pfe_dvld\\theprojectdvldversion2.0.0\\frontend-clientside\\desktop\\dvld_desktopclient\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|solutionrelative:people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|s:\\14    pfe_dvld\\theprojectdvldversion2.0.0\\frontend-clientside\\desktop\\dvld_desktopclient\\people\\frmadd_edite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|solutionrelative:people\\frmadd_edite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\test\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BBB9439-E352-476C-BEDA-94C7C9B6634C}|DVLD_DesktopClient.csproj|solutionrelative:test\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,58 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmMain.cs [Design]",
-              "DocumentMoniker": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\frmMain.cs",
-              "RelativeDocumentMoniker": "frmMain.cs",
-              "ToolTip": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\frmMain.cs [Design]",
-              "RelativeToolTip": "frmMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T20:00:47.461Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmChangePassword.cs [Design]",
-              "DocumentMoniker": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\Users\\frmChangePassword.cs",
-              "RelativeDocumentMoniker": "Users\\frmChangePassword.cs",
-              "ToolTip": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\Users\\frmChangePassword.cs [Design]",
-              "RelativeToolTip": "Users\\frmChangePassword.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T21:13:02.027Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmAdd_Edite.cs [Design]",
-              "DocumentMoniker": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\People\\frmAdd_Edite.cs",
-              "RelativeDocumentMoniker": "People\\frmAdd_Edite.cs",
-              "ToolTip": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\People\\frmAdd_Edite.cs [Design]",
-              "RelativeToolTip": "People\\frmAdd_Edite.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T21:17:33.151Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmListPeople.cs",
-              "DocumentMoniker": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\People\\frmListPeople.cs",
-              "RelativeDocumentMoniker": "People\\frmListPeople.cs",
-              "ToolTip": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\People\\frmListPeople.cs",
-              "RelativeToolTip": "People\\frmListPeople.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T21:30:52.515Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -96,28 +42,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "clsLocalDrivingLicenseApplicationAsync.cs",
-              "DocumentMoniker": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\Applications\\Local Driving License\\clsLocalDrivingLicenseApplicationAsync.cs",
-              "RelativeDocumentMoniker": "Applications\\Local Driving License\\clsLocalDrivingLicenseApplicationAsync.cs",
-              "ToolTip": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\Applications\\Local Driving License\\clsLocalDrivingLicenseApplicationAsync.cs",
-              "RelativeToolTip": "Applications\\Local Driving License\\clsLocalDrivingLicenseApplicationAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0BAABFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "frmTakeTest.cs [Design]",
+              "DocumentMoniker": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\Test\\frmTakeTest.cs",
+              "RelativeDocumentMoniker": "Test\\frmTakeTest.cs",
+              "ToolTip": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\Test\\frmTakeTest.cs [Design]",
+              "RelativeToolTip": "Test\\frmTakeTest.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T22:03:57.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T15:55:42.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmAdd_Edite.cs",
-              "DocumentMoniker": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\People\\frmAdd_Edite.cs",
-              "RelativeDocumentMoniker": "People\\frmAdd_Edite.cs",
-              "ToolTip": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\People\\frmAdd_Edite.cs",
-              "RelativeToolTip": "People\\frmAdd_Edite.cs",
-              "ViewState": "AgIAAPUBAAAAAAAAAAAiwEkCAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "frmScheduleTest.cs [Design]",
+              "DocumentMoniker": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\Test\\frmScheduleTest.cs",
+              "RelativeDocumentMoniker": "Test\\frmScheduleTest.cs",
+              "ToolTip": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\Test\\frmScheduleTest.cs [Design]",
+              "RelativeToolTip": "Test\\frmScheduleTest.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T21:28:07.346Z"
+              "WhenOpened": "2025-11-04T15:55:40.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLocalDrivingLicenseApplicationInfo.cs [Design]",
+              "DocumentMoniker": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\Test\\frmLocalDrivingLicenseApplicationInfo.cs",
+              "RelativeDocumentMoniker": "Test\\frmLocalDrivingLicenseApplicationInfo.cs",
+              "ToolTip": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\Test\\frmLocalDrivingLicenseApplicationInfo.cs [Design]",
+              "RelativeToolTip": "Test\\frmLocalDrivingLicenseApplicationInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:55:38.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmListApplicationTypes.cs [Design]",
+              "DocumentMoniker": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\Applications\\ApplicationTypes\\frmListApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Applications\\ApplicationTypes\\frmListApplicationTypes.cs",
+              "ToolTip": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\Applications\\ApplicationTypes\\frmListApplicationTypes.cs [Design]",
+              "RelativeToolTip": "Applications\\ApplicationTypes\\frmListApplicationTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:55:17.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "S:\\14    PFE_DVLD\\TheProjectDVLDVersion2.0.0\\FrontEnd-ClientSide\\Desktop\\DVLD_DesktopClient\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T19:06:01.834Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

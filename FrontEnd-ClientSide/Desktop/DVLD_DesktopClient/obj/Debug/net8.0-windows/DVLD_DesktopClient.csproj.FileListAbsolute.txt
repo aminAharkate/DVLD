@@ -117,3 +117,4 @@ S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_De
 S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.pdb
 S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.genruntimeconfig.cache
 S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\ref\DVLD_DesktopClient.dll
+S:\14    PFE_DVLD\TheProjectDVLDVersion2.0.0\FrontEnd-ClientSide\Desktop\DVLD_DesktopClient\obj\Debug\net8.0-windows\DVLD_DesktopClient.sourcelink.json

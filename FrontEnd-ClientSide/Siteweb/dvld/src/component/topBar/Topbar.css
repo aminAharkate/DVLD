@@ -1,0 +1,30 @@
+.topbar {
+    background: #12004b;
+    color: #ff99ff;
+    padding: 10px 0;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);
+}
+
+.scroll-text {
+    white-space: nowrap;
+    display: inline-block;
+    animation: scrollText 10s linear infinite;
+    font-size: 18px;
+    padding-right: 100%;
+
+}
+
+
+@keyframes scrollText {
+    0% {
+        transform: translateX(-70%);
+    }
+
+    100% {
+        transform: translateX(100%);
+    }
+}
