@@ -1,0 +1,111 @@
+/* 
+.layout-container {
+    display: flex;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #12004b 0%, #0d0038 100%);
+    overflow: hidden;
+
+}
+
+.layout-content {
+    flex: 1;
+    margin-left: 280px;
+    min-height: 100vh;
+    background: transparent;
+    width: calc(100% - 280px);
+    display: flex;
+    flex-direction: column;
+}
+
+.layout-outlet {
+    padding: 20px;
+    flex: 1;
+    overflow-y: auto;
+
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+
+.layout-outlet::-webkit-scrollbar {
+    width: 8px;
+}
+
+.layout-outlet::-webkit-scrollbar-track {
+    background: rgba(26, 0, 102, 0.3);
+}
+
+.layout-outlet::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, var(--accent-pink), var(--accent-cyan));
+    border-radius: 4px;
+}
+
+.layout-outlet::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(180deg, var(--accent-cyan), var(--accent-pink));
+}
+
+@media (max-width: 1024px) {
+    .layout-content {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .layout-outlet {
+        padding: 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    .layout-outlet {
+        padding: 10px;
+    }
+} */
+ /* Layout.css - Updated with Grid */
+/*========================================================*/
+.layout-container {
+    display: grid;
+    grid-template-areas:"sidebar topbar" "sidebar main";
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto 1fr;
+    min-height: 100vh;
+}
+
+.sidebar {
+    grid-area: sidebar;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.topbar {
+    grid-area: topbar;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.main-content {
+    grid-area: main;
+    /* padding: 20px; */
+    overflow-y: auto;
+    background-color: #f5f5f5;
+    min-height: var(100vh - 65px);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .layout-container {
+        grid-template-areas:
+            "topbar"
+            "main";
+        grid-template-columns: 1fr;
+        grid-template-rows: auto 1fr;
+    }
+
+    .sidebar {
+        display: none;
+        /* Or implement a mobile drawer */
+    }
+}

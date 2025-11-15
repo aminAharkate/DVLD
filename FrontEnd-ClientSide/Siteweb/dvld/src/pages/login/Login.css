@@ -1,7 +1,5 @@
 * {
-    box-sizing: border-box;
-    /* why?*/
-    /*to make to width 100px or what ever ur size u want  without caring abt padding border data make width more than 100(ask AI)*/
+
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
@@ -15,11 +13,11 @@ body {
     height: 100vh;
     display: flex;
     justify-content: center;
-    /* why?*/
+
     align-items: center;
-    /* why?*/
+
     overflow: hidden;
-    /* why?*/
+
     background: #12004b;
 }
 
@@ -48,18 +46,16 @@ body {
     right: -50px;
 }
 
-/* Form container */
 .login-container {
     position: relative;
-    /* why?*/
+  
     z-index: 1;
     padding: 40px;
     border-radius: 20px;
     width: 350px;
     background: #12004b;
     box-shadow: 0 0 50px rgba(255, 0, 255, 0.5);
-    /* why?*/
-    /* left right range  color*/
+ 
     color: #ff99ff;
 }
 
@@ -71,7 +67,7 @@ body {
 
 .login-container label {
     display: block;
-    /* why?*/
+
     margin: 15px 0 5px;
 }
 
@@ -85,7 +81,7 @@ body {
     margin-bottom: 10px;
     background: #1a0066;
     color: #fff;
-    /* applying it on test*/
+
     border-bottom: 2px solid #ff33ff;
 }
 
@@ -98,7 +94,7 @@ body {
     padding: 10px;
     margin-top: 15px;
     background: linear-gradient(90deg, #00ffff, #ff00ff);
-    /* why?*/
+
     border: none;
     border-radius: 10px;
     color: #fff;

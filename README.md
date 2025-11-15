@@ -5,10 +5,14 @@ The Driving & Vehicle License Department (DVLD) system is a comprehensive drivin
 
 ## Interface Desktop  Client Side [.NET]
 ![alt text](<Screenshot 2025-11-04 223004.png>)
-![alt text](<Screenshot 2025-07-30 001337.png>)
+![alt text](<Screenshot 2025-11-15 155822.png>)
+![alt text](<Screenshot 2025-11-15 160354.png>)
+![alt text](<Screenshot 2025-11-15 160730.png>)
 
 ## Interface Web  Client Side [eact.js]
 ![alt text](<Screenshot 2025-11-04 223202.png>)
+
+![alt text](<Screenshot 2025-11-15 155350.png>)
 
 
 

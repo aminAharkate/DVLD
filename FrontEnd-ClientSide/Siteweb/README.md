@@ -5,7 +5,7 @@
 - npm install react-router-dom 
 
 
-# aoto import
+# How to: En9bIe JavaScript auto-import suggestions in VS Code
 - jsconfig.json
 {
   "compilerOptions": {
@@ -37,4 +37,8 @@ npm install @mui/icons-material / npm install react-icons
   rel="stylesheet"
   href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap"
 />
+
+# etentioin 
+- JS JSX Snippets ==> rfc etr...
+- eslint 
 

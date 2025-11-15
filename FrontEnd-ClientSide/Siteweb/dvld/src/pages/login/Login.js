@@ -37,7 +37,7 @@ const handleLogin = async (e) => {
             } else {
               sessionStorage.setItem('user', JSON.stringify(userData));
             }
-            navigate('/Layout');
+            navigate('/layout/home');
   
       
     } catch (err) {
@@ -63,7 +63,7 @@ const handleLogin = async (e) => {
                 <input 
                 type="text" 
                 id="username" 
-                placeholder="please enter your user name" 
+                placeholder="Please enter your user name" 
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
                 disabled={loading}
@@ -73,7 +73,7 @@ const handleLogin = async (e) => {
                 <input
                 type="password"
                 id="password"
-                placeholder="please enter your password"
+                placeholder="Please enter your password"
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
                 disabled={loading}

@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:5045/api'; // Change to your API URL
+const API_BASE_URL = 'http://localhost:5045/api'; 
 
 const userService = {
     

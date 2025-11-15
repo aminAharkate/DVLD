@@ -4,8 +4,11 @@ import { FaUserGroup,
             FaCar,
             FaFingerprint,
             FaGear ,
-            FaSkull,
-            FaHouseChimneyUser, 
+            FaHouseChimneyUser,
+            FaClipboardList ,
+            FaArrowRightFromBracket 
+
+
 
  } from "react-icons/fa6";
 
@@ -15,24 +18,23 @@ export const Icons = [
         name: "Home"
     },
     {
+        icon: FaBars,
+        name: "Applications"
+    },
+    {
         icon: FaUserGroup,
         name: "People"
+    },
+    {
+        icon: FaCar,
+        name: "Drivers"
     },
     {
         icon: FaUserGroup,
         name: "Users"
     },
     {
-        icon: FaBars,
-        name: "Applications"
-    },
-    {
-        icon: FaCar,
-        name: "Drivers"
-    },
-    
-    {
-        icon: FaCar,
+        icon: FaClipboardList ,
         name: "userInfo"
     },
     {
@@ -41,10 +43,10 @@ export const Icons = [
     },
     {
         icon: FaGear,
-        name: "Stings"
+        name: "Settings"
     },
     {
-        icon: FaSkull ,
+        icon: FaArrowRightFromBracket ,
         name: "Logout"
     },
 ]
